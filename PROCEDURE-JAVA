@@ -8,4 +8,6 @@ $ apt-get install openjdk-8
 ## Verify Installation
 ```bash
 $ java -version
+
+$ ls -l /usr/share/java
 ```
