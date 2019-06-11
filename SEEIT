@@ -1,11 +1,7 @@
-# How to install JDK 8
+# A Proper SEEIT
 
-## Apt
-```bash
-$ apt-get install openjdk-8
-```
+This is so proper
 
-## Verify Installation
-```bash
-$ java -version
-```
+## Heading here
+
+And text
