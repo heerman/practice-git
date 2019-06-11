@@ -1,0 +1,7 @@
+# How to install JDK 8
+
+## Apt
+```bash
+$ apt-get install openjdk-8
+```
+
