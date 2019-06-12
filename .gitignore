@@ -1,4 +1,39 @@
+# OS generated files
 .DS_Store
-.DS_Store?
+.Spotlight-V100
+.Trash
 .Trashes
-Thumbs.sh
+*.swp
+Thumbs.db
+ehthumbs.db
+
+
+# Binaries (non-text)
+*.zip
+*.wav
+*.reapeaks
+
+
+# Webclient
+webclient/node_modules/*
+webclient/npm-debug.log
+karma_html/
+earsketch.min.js*
+utilities/bin/*
+
+
+# Java
+*.class
+*.war
+
+
+# IntelliJ IDEA
+.idea/**
+*.iml
+
+
+# Eclipse
+.eclipse
+.classpath
+.settings/
+
