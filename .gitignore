@@ -28,7 +28,7 @@ utilities/bin/*
 
 
 # IntelliJ IDEA
-.idea
+.idea/
 *.iml
 
 
